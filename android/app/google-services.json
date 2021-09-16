@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "913948867437",
+    "project_id": "cod3r-chat-c9d0a",
+    "storage_bucket": "cod3r-chat-c9d0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913948867437:android:8d7c343cf254a96575f864",
+        "android_client_info": {
+          "package_name": "br.com.damasceno.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913948867437-isf2va94sbm64demrsetvctegq1d28av.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUAbgdZOVupV0-vqzofm5jbg5owQ3MhDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913948867437-isf2va94sbm64demrsetvctegq1d28av.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
